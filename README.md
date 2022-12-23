@@ -1,4 +1,4 @@
-<div style="width:100%">
+<div style="width:100%; display:flex">
     <div style="width:50%">
     ## Skills
     - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
