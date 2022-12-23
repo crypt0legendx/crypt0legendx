@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/codedreamer1/codedreamer1/blob/master/thinking.jpeg" width="100%"/>
+</p>
 ## Skills
 
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
