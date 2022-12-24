@@ -1,6 +1,7 @@
-## <img height="60" width="60" src="https://github.com/luckypanda777/Luckypanda777/blob/main/img/hello.gif" />  Dreamer
+## <img height="60" width="60" src="https://github.com/luckypanda777/Luckypanda777/blob/main/img/hello.gif" />  Full-Stack ( WEB | EVM | SOL | KDA) 
 <img align="right" width="300" src="https://github.com/codedreamer1/codedreamer1/blob/master/thinking.jpeg" style="border-radius:30px" />
 
+<br />
 - [ Positive | Hard-working | Detail-oriented]
 - [ Technical ability | Responsive | Ability to finish things on time ]
 - [ app architecture | clean code | product design | continuous integration | task prioritization | Implement creative design ]
