@@ -1,6 +1,7 @@
-<div style="width:100%; display:flex">
-    <div style="width:50%">
+
     ## Skills
+        <img align="right" width="350" src="https://github.com/codedreamer1/codedreamer1/blob/master/thinking.jpeg" />
+      ##
     - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
     - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs
     - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, SQLite
@@ -8,10 +9,5 @@
     - ⚡ Blockchain: DEX, DAO, NFT, ERC20, ERC721, MetaVerse, Solidity, Rust, Pact
     - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#
     - 📫 Interesting : AI, BigData, Machine Learning, IoT
-      </div>
-      <div style="width:50%">
-        <p align="center">
-            <img src="https://github.com/codedreamer1/codedreamer1/blob/master/thinking.jpeg" width="100%"/>
-        </p>
-      </div>
-  </div>
+  
+  
