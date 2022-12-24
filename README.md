@@ -1,5 +1,5 @@
 ## <img height="60" width="60" src="https://github.com/luckypanda777/Luckypanda777/blob/main/img/hello.gif" />
-<img align="right" width="450" src="https://github.com/codedreamer1/codedreamer1/blob/master/thinking.jpeg" style="border-radius:30px" />
+<img align="right" width="350" src="https://github.com/codedreamer1/codedreamer1/blob/master/thinking.jpeg" style="border-radius:30px" />
         
 ##
 ##### My mission
