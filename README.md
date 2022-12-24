@@ -1,8 +1,7 @@
 
     ## Skills
-        <p>
-            <img align="right" width="350" src="https://github.com/codedreamer1/codedreamer1/blob/master/thinking.jpeg" />
-        </p
+<img align="right" width="350" src="https://github.com/codedreamer1/codedreamer1/blob/master/thinking.jpeg" />
+        
       ##
     - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
     - 🔭 Backend : NodeJs, CI, Laravel, Django, Express, Nestjs
