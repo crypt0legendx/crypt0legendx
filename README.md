@@ -2,12 +2,13 @@
 <img align="right" width="350" src="https://github.com/codedreamer1/codedreamer1/blob/master/thinking.jpeg" style="border-radius:30px" />
         
 ##
-##### My mission
-- **[ Perfect result | Best Quality |  On-time Delivery ]**
+
+- [ Positive | Hard-working | Detail-oriented]
+- [ Technical ability | Responsive | Ability to finish things on time ]
 - [ app architecture | clean code | product design | continuous integration | task prioritization | Implement creative design ]
 
 ##
-##### skills
+
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
