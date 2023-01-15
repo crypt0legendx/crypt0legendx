@@ -1,4 +1,4 @@
-## <img height="60" width="60" src="https://github.com/luckypanda777/Luckypanda777/blob/main/img/hello.gif" />  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%40c463&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Blockchain+Deveoper)](https://git.io/typing-svg)
+## <img height="60" width="60" src="https://github.com/luckypanda777/Luckypanda777/blob/main/img/hello.gif" />  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&colo=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Full-Stack+Blockchain+Deveoper)](https://git.io/typing-svg)
 
 - [ Positive | Hard-working | Detail-oriented]
 - [ Technical ability | Responsive | Ability to finish things on time ]
