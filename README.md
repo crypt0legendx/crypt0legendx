@@ -21,7 +21,7 @@ Hi there! I'm CryptoLegend, your go-to technologist for a seamless blend of Web2
 - Sandwich DexTool(React, CoinMarketCap API, BitQuery, GraphQL, Solidity)
 - Genesis P2E Game(Next.js, Wagmi, Storybook, Jest, Nest.js, Prisma, Postgresql, Web3SDK, OpenAPI etc.)
 - SportzFan Gamefied Reward System(Next.js, TailwindCSS, Nest.js, TypeORM, PostgreSQL, Solidity, Web3.js, Vercel WildCard)
-- .....
+  .....
 
 #### 🌍 Let's Connect:
 
