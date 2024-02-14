@@ -1,5 +1,7 @@
 ### Web2/Web3, FinTech, Marketplace, Game Engineering with leadership experience
 
+If you always do what you always did, you will always get what you always got. Innovation will never happen if you do the same thing you always did
+
 #### 🌐 What I Bring to the Table:
 
 - **Web2 Wizardry:** Expertise in modern web development, crafting robust and user-centric web applications using cutting-edge technologies like React, Next.js, Angular, Vue.js, Nuxt, Node.js, Nest.js, Python, Storybook, Jest, Prisma, Postgresql, MongoDB, etc.
