@@ -1,4 +1,4 @@
-### 🥇 Web2/Web3, FinTech, Marketplace, Game Engineering with leadership experience
+### Web2/Web3, FinTech, Marketplace, Game Engineering with leadership experience
 
 #### 🌐 What I Bring to the Table:
 
