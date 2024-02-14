@@ -1,4 +1,4 @@
-<div style="background:red">
+<div class="background:red">
 ### 🥇 Web2/Web3, FinTech, Marketplace, Game Engineering with leadership experience
 
 Hi there! I'm CryptoLegend, your go-to technologist for a seamless blend of Web2, Web3, and Blockchain innovations. With a rich history in the digital realm, I'm on a mission to shape the future of technology, finance, and decentralization.
