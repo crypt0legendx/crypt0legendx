@@ -10,7 +10,7 @@ If you always do what you always did, you will always get what you always got. I
 - **Interdisciplinary Insights:** Bridging the gap between Web2 and Web3, I leverage my expertise to create seamless transitions, connecting the best of both worlds.
 - **Security Advocate:** A staunch advocate for security, I ensure that every line of code I write is thoroughly tested and follows the highest security standards.
 
-#### Technologies
+#### Tech Stacks:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
