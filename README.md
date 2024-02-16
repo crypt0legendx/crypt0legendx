@@ -10,8 +10,7 @@ If you always do what you always did, you will always get what you always got. I
 - **Interdisciplinary Insights:** Bridging the gap between Web2 and Web3, I leverage my expertise to create seamless transitions, connecting the best of both worlds.
 - **Security Advocate:** A staunch advocate for security, I ensure that every line of code I write is thoroughly tested and follows the highest security standards.
 
-#### Let's Connect:
-- I'm always open to collaborations, discussions, and answering questions. Feel free to reach out.
+#### Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -41,7 +40,6 @@ If you always do what you always did, you will always get what you always got. I
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" **alt="Mongo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="Three.js" **alt="Three.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original-wordmark.svg" title="OpenAI" **alt="OpenAI" width="40" height="40"/>&nbsp;
