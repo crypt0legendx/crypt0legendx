@@ -1,4 +1,3 @@
-![Crypto-Legend-2-23-2024](https://github.com/crypt0legendx/Crypt0LegendX/assets/95104528/ebec6be5-0656-4c25-99a7-d2f8c8fc412d)
 ### Web2/Web3, FinTech, Marketplace, Game Engineering with leadership experience
 
 If you always do what you always did, you will always get what you always got. Innovation will never happen if you do the same thing you always did
