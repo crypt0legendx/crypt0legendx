@@ -1,4 +1,4 @@
-### Web, Blockchain, AI, FinTech, Marketplace, Game Engineering with leadership experience
+### Web, Blockchain, AI with leadership experience
 
 If you always do what you always did, you will always get what you always got. Innovation will never happen if you do the same thing you always did
 
