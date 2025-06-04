@@ -1,6 +1,7 @@
 ### Web, Blockchain, AI with leadership experience
 
-If you always do what you always did, you will always get what you always got. Innovation will never happen if you do the same thing you always did
+"The best way to predict the future is to create it."
+Building the future one line of code at a time—innovating with AI, blockchain, and full-stack solutions to grow and evolve.
 
 #### What I Bring to the Table:
 
